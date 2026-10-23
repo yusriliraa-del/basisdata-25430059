@@ -5,12 +5,12 @@
 -- ---------------------------------------------------------
 -- 1. PENGATURAN BASIS DATA & AKUN PRAKTIKUM (KOPMA)
 -- ---------------------------------------------------------
-CREATE DATABASE IF NOT EXISTS kopma_062
+CREATE DATABASE IF NOT EXISTS kopma_059
   CHARACTER SET utf8mb4 
   COLLATE utf8mb4_unicode_ci;
 
-CREATE USER IF NOT EXISTS 'mhs_062'@'localhost' IDENTIFIED BY '<password_kerja_mhs>';
-GRANT ALL PRIVILEGES ON kopma_062.* TO 'mhs_062'@'localhost';
+CREATE USER IF NOT EXISTS 'mhs_059'@'localhost' IDENTIFIED BY '<password_kerja_mhs>';
+GRANT ALL PRIVILEGES ON kopma_059.* TO 'mhs_059'@'localhost';
 
 -- ---------------------------------------------------------
 -- 2. PENGATURAN BASIS DATA & AKUN PROYEK MANDIRI (TOKO DARING)
@@ -25,7 +25,7 @@ GRANT ALL PRIVILEGES ON toko_059.* TO 'dev_062'@'localhost';
 -- ---------------------------------------------------------
 -- 3. AKUN TAMU UNTUK LATIHAN MODIFIKASI (E.1)
 -- ---------------------------------------------------------
-CREATE USER IF NOT EXISTS 'tamu_062'@'localhost' IDENTIFIED BY '<password_tamu>';
-GRANT SELECT ON kopma_062.* TO 'tamu_062'@'localhost';
+CREATE USER IF NOT EXISTS 'tamu_059'@'localhost' IDENTIFIED BY '<password_tamu>';
+GRANT SELECT ON kopma_059.* TO 'tamu_059'@'localhost';
 
 FLUSH PRIVILEGES;

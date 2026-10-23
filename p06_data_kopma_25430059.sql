@@ -1,10 +1,10 @@
 -- ============================================================================
 -- Berkas : p06_data_kopma_25430059.sql
 -- NAMA   : Yusril Irawan (NIM: 25430059)
--- TOPIK  : Skrip Pengisian Data Sampel Kopma_062 - Modul 6
+-- TOPIK  : Skrip Pengisian Data Sampel kopma_059 - Modul 6
 -- ============================================================================
 
-USE kopma_062;
+USE kopma_059;
 
 -- Bersihkan data lama jika ada (urutan dari anak ke induk)
 DELETE FROM detail_pembelian;

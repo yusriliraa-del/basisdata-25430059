@@ -1,10 +1,10 @@
 -- ============================================================================
 -- Berkas : p05_ddl_kopma_25430059.sql
 -- NAMA   : Yusril Irawan (NIM: 25430059)
--- TOPIK  : Skrip DDL Kanonik Koperasi Mahasiswa (Kopma_062) - Modul 5
+-- TOPIK  : Skrip DDL Kanonik Koperasi Mahasiswa (kopma_059) - Modul 5
 -- ============================================================================
 
-USE kopma_062;
+USE kopma_059;
 
 -- ----------------------------------------------------------------------------
 -- 1. PENGHAPUSAN TABEL (Urutan dari Anak ke Induk)
