@@ -1,6 +1,6 @@
 # Dokumen Kebutuhan Data Koperasi Mahasiswa Sejahtera (Kopma)
 
-**Penyusun:** Elvin Purna Hidayat (25430062)  
+**Penyusun:** Yusril Irawan (25430059)  
 **Mata Kuliah:** Praktikum Basis Data  
 
 ---
@@ -61,7 +61,7 @@ Kopma bergerak di bidang retail skala kampus yang menyediakan alat tulis, makana
 | Elemen Data | Arti | Contoh | Aturan | Penanggung Jawab |
 |---|---|---|---|---|
 | `no_anggota` | Nomor ID Anggota Kopma | A-0457 | Unik, Format A-4Digit | Ketua Koperasi |
-| `nim_anggota` | NIM Mahasiswa | 25430062 | Unik, 8-10 digit angka | Ketua Koperasi |
+| `nim_anggota` | NIM Mahasiswa | 25430059 | Unik, 8-10 digit angka | Ketua Koperasi |
 | `no_hp_anggota` | Nomor Telepon Anggota | 081234567890 | Data Pribadi Terbatas | Ketua Koperasi |
 | `no_nota_penjualan` | Nomor Transaksi Penjualan | PJ-2609-0142 | Unik per transaksi | Kasir |
 | `harga_satuan_detail_penjualan` | Harga Jual saat Transaksi | 4000 | Bilangan Bulat $>= 0$ | Kasir |

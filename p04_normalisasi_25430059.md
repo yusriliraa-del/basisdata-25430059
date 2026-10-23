@@ -1,9 +1,9 @@
-# Dokumen Normalisasi & Skema Relasional - Viinjay Store 
+# Dokumen Normalisasi & Skema Relasional - PT Niaga Digital Nusantara 
 
-**Nama Pengembang:** Elvin Purna Hidayat 
-**NIM:** 25430062  
+**Nama Pengembang:** Yusril Irawan 
+**NIM:** 25430059  
 **Kode Tema:** toko  
-**Nama Basis Data:** toko_062  
+**Nama Basis Data:** toko_059  
 
 ---
 

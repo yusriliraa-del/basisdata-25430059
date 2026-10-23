@@ -1,14 +1,14 @@
-# Dokumen Kebutuhan Data - Viinjay Store (Toko Daring)
+# Dokumen Kebutuhan Data - PT Niaga Digital Nusantara (Toko Daring)
 
-**Nama Pengembang:** Elvin Purna Hidayat 
-**NIM:** 25430062  
+**Nama Pengembang:** Yusril Irawan 
+**NIM:** 25430059  
 **Kode Tema:** toko  
-**Nama Basis Data:** toko_062  
+**Nama Basis Data:** toko_059  
 
 ---
 
 ## 1. Latar Belakang dan Aktivitas Organisasi
-Viinjay Store adalah platform retail toko daring yang menjual perlengkapan komputer dan aksesori digital. Aktivitas bisnis utama meliputi pendaftaran pelanggan, pemeliharaan katalog produk, pemrosesan keranjang dan pesanan pelanggan, verifikasi pembayaran, pelacakan pengiriman barang, serta penyusunan laporan penjualan harian/bulanan.
+PT Niaga Digital Nusantara adalah platform retail toko daring yang menjual perlengkapan komputer dan aksesori digital. Aktivitas bisnis utama meliputi pendaftaran pelanggan, pemeliharaan katalog produk, pemrosesan keranjang dan pesanan pelanggan, verifikasi pembayaran, pelacakan pengiriman barang, serta penyusunan laporan penjualan harian/bulanan.
 
 ## 2. Aktor dan Proses Bisnis
 | Kode | Proses Bisnis | Aktor | Pemicu |

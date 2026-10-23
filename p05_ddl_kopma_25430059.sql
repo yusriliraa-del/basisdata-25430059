@@ -1,6 +1,6 @@
 -- ============================================================================
--- Berkas : p05_ddl_kopma_25430062.sql
--- NAMA   : Elvin Purna Hidayat (NIM: 25430062)
+-- Berkas : p05_ddl_kopma_25430059.sql
+-- NAMA   : Yusril Irawan (NIM: 25430059)
 -- TOPIK  : Skrip DDL Kanonik Koperasi Mahasiswa (Kopma_062) - Modul 5
 -- ============================================================================
 

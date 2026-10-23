@@ -1,10 +1,10 @@
 -- ============================================================================
--- Berkas : p06_data_25430062.sql
--- NAMA   : Elvin Purna Hidayat (NIM: 25430062)
--- TEMA   : Toko Daring (Viinjay Store G62) - Modul 6
+-- Berkas : p06_data_25430059.sql
+-- NAMA   : Yusril Irawan (NIM: 25430059)
+-- TEMA   : Toko Daring (PT Niaga Digital Nusantara G62) - Modul 6
 -- ============================================================================
 
-USE toko_062;
+USE toko_059;
 
 DELETE FROM pengiriman;
 DELETE FROM pembayaran;
@@ -23,7 +23,7 @@ ALTER TABLE pengiriman AUTO_INCREMENT = 1;
 
 -- 1. Data Pelanggan (Minimal 5 Baris)
 INSERT INTO pelanggan (nama_pelanggan, email_pelanggan, no_hp_pelanggan, alamat_pelanggan) VALUES
-('Elvin Purna Hidayat', 'galeh@gmail.com', '081234567890', 'Jl. Kampus UM Metro No. 62, Metro'),
+('Yusril Irawan', 'galeh@gmail.com', '081234567890', 'Jl. Kampus UM Metro No. 62, Metro'),
 ('Ahmad Fauzi', 'fauzi@yahoo.com', '085269001122', 'Jl. Yos Sudarso No. 15, Bandar Lampung'),
 ('Siti Aminah', 'siti@gmail.com', '081377889900', 'Jl. Kartini No. 8, Metro Pusat'),
 ('Rian Pratama', 'rian@outlook.com', '082144556677', 'Jl. Teuku Umar No. 102, Kedaton'),
